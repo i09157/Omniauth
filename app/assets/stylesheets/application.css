@@ -12,5 +12,10 @@
  *= require_tree .
 */
 .main {
-   margin-left: 5px;
+  margin-left: 5px;
+  padding-top: 10px;
  }
+body{
+	 	padding-top: 30px;
+	 	margin-left: 1000px;
+}
